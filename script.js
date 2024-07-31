@@ -7,3 +7,5 @@ const student = {
 };
 
 console.log(`${student.name} have a ${student.ownedVehicle}`);
+
+console.log(`My name is ${student.name}`);
